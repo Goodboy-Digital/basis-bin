@@ -1,6 +1,6 @@
 {
 	"name": "@goodboydigital/basis-bin",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "basis wrapper that makes it seamlessly available as a local dependency",
 	"license": "MIT",
 	"repository": "@goodboydigital/basis-bin",
